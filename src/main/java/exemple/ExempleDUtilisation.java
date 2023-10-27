@@ -5,7 +5,7 @@ import bandeau.Bandeau;
 import java.awt.Color;
 import java.awt.Font;
 
-public class ExempleDUtilisation {
+public class  ExempleDUtilisation {
 
     public static void main(String[] args) {
         new ExempleDUtilisation().exemple();
